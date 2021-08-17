@@ -1,2 +1,2 @@
-# Geog364.data
-Data for Geog364
+# GEOG364_Labs
+ Space for lab data
