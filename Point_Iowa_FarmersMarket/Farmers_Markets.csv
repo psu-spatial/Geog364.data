@@ -1,0 +1,176 @@
+﻿X,Y,FID,City,County,Latitude,Location,Longitude,Market_Name,Open_Dates,Open_Hours,State,Weekday
+-95.13766,43.365707,1,Arnolds Park,DICKINSON,43.365707,Arnolds Park,-95.13766,Akron Farmers Market,06/28/2018 - 09/13/2018,04:30 PM - 06:30 PM,IA,Thursday
+-91.171245,40.819633,2,West Burlington,DES MOINES,40.819633,609 S. Gear Avenue,-91.171245,Ames - North Grand Farmers Market - Saturdays,06/16/2018 - 10/27/2018,09:00 AM - 12:00 PM,IA,Saturday
+-95.742929,41.047044,3,Glenwood,MILLS,41.047044,418 E Sharp St,-95.742929,Ames - North Grand Farmers Market - Wednesdays,05/16/2018 - 09/26/2018,04:00 PM - 06:00 PM,IA,Wednesday
+-93.686774,41.611033,4,Des Moines,POLK,41.611033,4944 Franklin Avenue,-93.686774,Ames Main Street Market,06/14/2018 - 09/20/2018,04:00 PM - 06:00 PM,IA,Thursday
+-93.925595,40.624015,5,Lamoni,DECATUR,40.624015,610 E Main St,-93.925595,Anamosa Farmers Market - Saturdays,05/16/2018 - 10/31/2018,03:30 PM - 06:30 PM,IA,Wednesday
+-91.415939,40.533414,6,Montrose,LEE,40.533414,203 N. 1st Street,-91.415939,Anamosa Farmers Market - Wednesdays,05/08/2018 - 09/25/2018,04:00 PM - 06:00 PM,IA,Tuesday
+-96.350788,42.396538,7,Sergeant Bluff,WOODBURY,42.396538,903 Topaz Drive,-96.350788,Arnolds Park Farmers Market,06/03/2018 - 10/28/2018,10:00 AM - 03:00 PM,IA,Sunday
+-92.009669,41.661865,8,Williamsburg,IOWA,41.661865,210 W. State Street,-92.009669,Atlantic - Produce in the Park,06/01/2018 - 09/28/2018,04:00 PM - 06:00 PM,IA,Friday
+-87.118935,37.294113,9,Central City,LINN,37.294113,South 5th St,-87.118935,Atlantic Farmers Market - Saturdays,06/07/2018 - 09/27/2018,04:00 PM - 06:00 PM,IA,Thursday
+-91.382812,40.393452,10,Keokuk,LEE,40.393452,300 Main St,-91.382812,Atlantic Farmers Market - Tuesdays,05/19/2018 - 10/13/2018,07:00 AM - 11:00 AM,IA,Saturday
+-91.3140894,40.6326308,11,Ft Madison,LEE,40.6326308,The Depot - 814 10th Street,-91.3140894,Avoca Main Street Market,05/21/2018 - 10/08/2018,04:00 PM - 06:00 PM,IA,Monday
+-94.716119,40.676772,12,Bedford,TAYLOR,40.676772,130 Pollock Blvd,-94.716119,Beaverdale Farmers Market,05/31/2018 - 09/27/2018,04:00 PM - 06:00 PM,IA,Thursday
+-92.86779,40.72342,13,Centerville,APPANOOSE,40.72342,1209 S 18th St,-92.86779,Bedford Area Farmers Market,06/06/2018 - 09/26/2018,03:00 PM - 05:00 PM,IA,Wednesday
+-91.96143,40.72953,14,Keosauqua,VAN BUREN,40.72953,Keosauqua City Park,-91.96143,Belle Plaine Farmers Market,05/22/2018 - 10/09/2018,04:00 PM - 06:00 PM,IA,Tuesday
+-95.036083,40.737629,15,Clarinda,PAGE,40.737629,North 15th & Main,-95.036083,Bettendorf Farmer's Market - Mondays,06/09/2018 - 10/13/2018,08:00 AM - 11:00 AM,IA,Saturday
+-95.0365194,40.7382528,16,Clarinda,PAGE,40.7382528,North 15th & Main,-95.0365194,Bettendorf Farmers Market - Thursdays,06/05/2018 - 10/16/2018,02:30 PM - 05:00 PM,IA,Tuesday
+-92.414948,40.751682,17,Bloomfield,DAVIS,40.751682,100 E Jefferson St,-92.414948,Boone Area Farmers Market,05/05/2018 - 10/20/2018,08:30 AM - 11:30 AM,IA,Saturday
+-92.414948,40.751682,18,Bloomfield,DAVIS,40.751682,100 E Jefferson St,-92.414948,Calhoun County Farmers Market,05/08/2018 - 08/28/2018,03:00 PM - 06:00 PM,IA,Tuesday
+-93.31748,40.757567,19,Corydon,WAYNE,40.757567,100 N Lafayette,-93.31748,Capitol Complex Farmer's Market,06/07/2018 - 07/26/2018,05:00 PM - 08:00 PM,IA,Thursday
+-95.3750837,40.763094,20,Shenandoah,PAGE,40.763094,North Side of Priest Park,-95.3750837,Carlisle Farmers Market,06/06/2018 - 10/24/2018,02:00 PM - 05:00 PM,IA,Wednesday
+-95.375034,40.763188,21,Shenandoah,PAGE,40.763188,North Side of Priest Park,-95.375034,Carroll Farmers Market at the Depot - Saturdays,06/09/2018 - 10/20/2018,08:00 AM - 11:00 AM,IA,Saturday
+-91.1000336,40.8103451,22,Burlington,DES MOINES,40.8103451,200 - 500 Blocks of Jefferson St.,-91.1000336,Carroll Farmers Market at the Depot - Wednesdays,05/03/2018 - 09/27/2018,04:30 PM - 07:30 PM,IA,Thursday
+-91.144005,40.815022,23,Burlington,DES MOINES,40.815022,3320 E Agency St,-91.144005,Cartwright Pavilion Market - Saturdays,05/05/2018 - 10/27/2018,08:00 AM - 01:00 PM,IA,Saturday
+-91.144005,40.815022,24,Burlington,DES MOINES,40.815022,3320 E Agency St,-91.144005,Cedar Falls Farmers Market,05/08/2018 - 10/30/2018,08:00 AM - 01:00 PM,IA,Tuesday
+-91.547196,40.956864,25,Mt Pleasant,HENRY,40.956864,Locust and Walnut St.s,-91.547196,Cedar Rapids Downtown Farmers Market - Saturdays,05/12/2018 - 10/13/2018,08:30 AM - 11:00 AM,IA,Saturday
+-91.55355,40.9658,26,Mt Pleasant,HENRY,40.9658,124 S Main Street,-91.55355,Cedar Valley Farmers Market at Kimball Ridge,05/29/2018 - 10/02/2018,04:30 PM - 06:30 PM,IA,Tuesday
+-92.43337,41.00863,27,Ottumwa,WAPELLO,41.00863,NW Quadrant of the Greater Ottumwa Park,-92.43337,Centerville Farmers Market - Wednesday,05/17/2018 - 10/11/2018,02:30 PM - 05:30 PM,IA,Thursday
+-91.958504,41.009998,28,Fairfield,JEFFERSON,41.009998,N Main St & E Grimes Ave,-91.958504,Central City Mainstreet Farmers Market,05/05/2018 - 10/27/2018,08:00 AM - 01:00 PM,IA,Saturday
+-91.9632328,41.0102977,29,Fairfield,JEFFERSON,41.0102977,N Main St & E Grimes Ave,-91.9632328,Chariton Farmers Market,05/09/2018 - 10/24/2018,03:00 PM - 06:00 PM,IA,Wednesday
+-95.2272222,41.0116667,30,Red Oak,MONTGOMERY,41.0116667,NE corner Reed & 4th St,-95.2272222,Charles City Farmers Market - Saturdays,05/24/2018 - 10/18/2018,04:00 PM - 06:00 PM,IA,Thursday
+-92.43634,41.01722,31,Ottumwa,WAPELLO,41.01722,1110 N Quincy Ave,-92.43634,Charles City Farmers Market - Weds,05/26/2018 - 10/27/2018,08:00 AM - 11:00 AM,IA,Saturday
+-92.43634,41.01722,32,Ottumwa,WAPELLO,41.01722,1110 N Qunicy Ave,-92.43634,Cherokee Area Farmers Market,05/23/2018 - 10/31/2018,03:30 PM - 06:00 PM,IA,Wednesday
+-92.43005,41.01882,33,Ottumwa,WAPELLO,41.01882,NW Corner of the Greater Ottumwa Park,-92.43005,Clarinda Farm-City Market - Saturdays,05/14/2018 - 10/08/2018,02:30 PM - 05:30 PM,IA,Monday
+-93.306558,41.019549,34,Chariton,LUCAS,41.019549,104  N Grand Avenue,-93.306558,Clarinda Farm-City Market - Tuesdays,05/24/2018 - 10/04/2018,04:00 PM - 06:00 PM,IA,Thursday
+-92.8052778,41.0266667,35,Albia,MONROE,41.0266667,Benton Ave E & Hwy 5,-92.8052778,Clarion Farmers' Market - Saturday,05/25/2018 - 10/12/2018,04:00 PM - 06:00 PM,IA,Friday
+-95.21415,41.02728,36,Red Oak,MONTGOMERY,41.02728,2301 Eastern Ave,-95.21415,"Clarke County Farmers Market, Inc. - Saturdays",06/12/2018 - 08/21/2018,10:00 AM - 01:00 PM,IA,Tuesday
+-93.766617,41.034168,37,Osceola,CLARKE,41.034168,100 S Main St,-93.766617,"Clarke County Farmers Market, Inc. - Tuesdays",06/02/2018 - 10/20/2018,08:00 AM - 12:00 PM,IA,Saturday
+-93.766617,41.034168,38,Osceola,CLARKE,41.034168,100 S Main St,-93.766617,Clear Lake Farmers Market,06/05/2018 - 10/16/2018,03:00 PM - 06:00 PM,IA,Tuesday
+-94.3853259099999,41.0501006100001,39,Creston,UNION,41.05010061,SE corner of McKinley Park,-94.38532591,College Hill Farmers Market,06/04/2018 - 09/24/2018,04:00 PM - 06:30 PM,IA,Monday
+-95.851646,41.253368,40,Council Bluffs,POTTAWATTAMIE,41.253368,Bayliss Park - 100 Pearl Street,-95.851646,Coralville Farmers Market - Mondays,05/03/2018 - 09/27/2018,04:30 PM - 07:30 PM,IA,Thursday
+-95.848953,41.261002,41,Council Bluffs,POTTAWATTAMIE,41.261002,714 South Main (The Center),-95.848953,Corydon Farmers Market-Thursday,05/05/2018 - 10/13/2018,08:00 AM - 01:00 PM,IA,Saturday
+-92.64413,41.29504,42,Oskaloosa,MAHASKA,41.29504,"City Square, 106 S 1st St",-92.64413,Council Bluffs Farmers Market,05/19/2018 - 10/20/2018,08:00 AM - 11:00 AM,IA,Saturday
+-92.64413,41.29504,43,Oskaloosa,MAHASKA,41.29504,"City Square, 106 S 1st St",-92.64413,CR Parks & Rec Noelridge Farmers Market - Fridays,05/15/2018 - 10/16/2018,04:00 PM - 06:00 PM,IA,Tuesday
+-91.6917446,41.2983977,44,Washington,WASHINGTON,41.2983977,100 E Washington St,-91.6917446,CR Parks & Rec Noelridge Farmers Market - Mondays,05/17/2018 - 10/18/2018,05:00 PM - 07:30 PM,IA,Thursday
+-93.0974369,41.3189055,45,Knoxville,MARION,41.3189055,809 W. Rock Island St,-93.0974369,CR Parks & Rec Noelridge Farmers Market - Wed.,05/12/2018 - 10/13/2018,08:00 AM - 12:00 PM,IA,Saturday
+-93.097324,41.319591,46,Knoxville,MARION,41.319591,809 W. Rock Island St,-93.097324,Cresco Farmers Market - Fridays,05/15/2018 - 10/09/2018,03:00 PM - 05:30 PM,IA,Tuesday
+-94.013359,41.334606,47,Winterset,MADISON,41.334606,Madison County Courthouse lawn,-94.013359,Cresco Farmers Market - Tuesdays,05/12/2018 - 10/06/2018,08:00 AM - 12:00 PM,IA,Saturday
+-93.579361,41.356617,48,Indianola,WARREN,41.356617,Warren County Fairgrounds - Hwy 92,-93.579361,Creston Farmers Market,06/02/2018 - 10/27/2018,08:00 AM - 12:00 PM,IA,Saturday
+-93.579361,41.356617,49,Indianola,WARREN,41.356617,Warren County Fairgrounds - Hwy 92,-93.579361,Dallas Center Farmers Market,07/11/2018 - 09/12/2018,02:00 PM - 06:00 PM,IA,Wednesday
+-93.277519,41.392715,50,Pleasantville,MARION,41.392715,801 W Pleasant St,-93.277519,Davenport Farmers Market - Saturdays,07/11/2018 - 10/17/2018,03:30 PM - 06:00 PM,IA,Wednesday
+-94.996361,41.403877,51,Atlantic,CASS,41.403877,1200 Plum - 7th & Plum,-94.996361,Davenport Farmers Market - Wednesdays,06/02/2018 - 09/29/2018,09:00 AM - 12:00 PM,IA,Saturday
+-94.996361,41.403877,52,Atlantic,CASS,41.403877,1200 Plum- 7th & Plum,-94.996361,Davis County/Bloomfield Farmers Market - Saturdays,06/05/2018 - 09/25/2018,05:00 PM - 07:00 PM,IA,Tuesday
+-92.91835,41.404129,53,Pella,MARION,41.404129,603 Broadway St,-92.91835,Davis County/Bloomfield Farmers Market - Tuesdays,04/19/2018 - 10/18/2018,03:00 PM - 06:00 PM,IA,Thursday
+-95.013521,41.404228,54,Atlantic,CASS,41.404228,10 W. 7th Street,-95.013521,Denison Farmers Market,05/31/2018 - 09/27/2018,04:30 PM - 06:30 PM,IA,Thursday
+-92.91934,41.40453,55,Pella,MARION,41.40453,605 Broadway St,-92.91934,Des Moines Downtown Farmers Market,05/12/2018 - 10/20/2018,09:00 AM - 12:00 PM,IA,Saturday
+-91.048538,41.42588,56,Muscatine,MUSCATINE,41.42588,Downtown lot at corner of 3rd & Cedar Streets,-91.048538,Dubuque Farmers Market,05/05/2018 - 10/27/2018,07:30 AM - 11:30 AM,IA,Saturday
+-91.02994,41.4465,57,Muscatine,MUSCATINE,41.4465,1903 Park Ave,-91.02994,Dyersville Area Farmers Market,06/05/2018 - 10/31/2018,02:30 PM - 05:30 PM,IA,Tuesday
+-95.339375,41.476612,58,Avoca,POTTAWATTAMIE,41.476612,201 N. Elm Street,-95.339375,East Side Farmers Market,06/06/2018 - 09/26/2018,05:00 PM - 07:00 PM,IA,Wednesday
+-93.677693,41.479569,59,Norwalk,WARREN,41.479569,1120 Sunset Drive,-93.677693,Eldora Farmers Market,05/04/2018 - 10/26/2018,04:00 PM - 07:00 PM,IA,Friday
+-93.485895,41.494982,60,Carlisle,WARREN,41.494982,95 Iowa  Hwy 5,-93.485895,Estherville Downtown Market - Saturdays,06/02/2018 - 10/27/2018,08:30 AM - 11:30 AM,IA,Saturday
+-94.31849062,41.5021955600001,61,Stuart,GUTHRIE,41.50219556,Stuart City Park,-94.31849062,Estherville Downtown Market - Thursdays,05/16/2018 - 10/17/2018,04:30 PM - 06:30 PM,IA,Wednesday
+-90.58107,41.519893,62,Davenport,SCOTT,41.519893,421 W. River Drive,-90.58107,Evansdale Farmers Market,05/06/2018 - 10/28/2018,10:00 AM - 02:00 PM,IA,Sunday
+-90.578963,41.520052,63,Davenport,SCOTT,41.520052,421 W River Dr,-90.578963,Fairfield Farmers Market - Saturday,05/05/2018 - 10/27/2018,08:00 AM - 01:00 PM,IA,Saturday
+-90.578963,41.520052,64,Davenport,SCOTT,41.520052,421 West River Drive,-90.578963,Fairfield Farmers Market - Wednesday,05/02/2018 - 10/31/2018,08:00 AM - 01:00 PM,IA,Wednesday
+-93.602905,41.522644,65,Des Moines,POLK,41.522644,1111 E Army Post Rd,-93.602905,Farm Fresh Farmers Market - Sat. (Burlington),06/04/2018 - 10/15/2018,03:00 PM - 06:00 PM,IA,Monday
+-90.502298,41.525096,66,Bettendorf,SCOTT,41.525096,2117 State Street,-90.502298,Farm Fresh Farmers Market - Tue. (Burlington),05/07/2018 - 10/29/2018,02:30 PM - 05:30 PM,IA,Monday
+-90.50317,41.52518,67,Bettendorf,SCOTT,41.52518,"2117 State St, between Alter Bldg & Power Station",-90.50317,Farm King Farmers Market,05/03/2018 - 10/25/2018,02:30 PM - 05:30 PM,IA,Thursday
+-90.575417,41.562569,68,Davenport,SCOTT,41.562569,"320 W Kimberly Rd, North Park Mall, East Entrance",-90.575417,Forest City Farmers Market,05/05/2018 - 10/27/2018,08:00 AM - 12:00 PM,IA,Saturday
+-90.575417,41.562569,69,Davenport,SCOTT,41.562569,"320 W Kimberly Rd, North Park Mall, East Entrance",-90.575417,Fort Madison Farmers Market,05/02/2018 - 10/31/2018,08:00 AM - 12:00 PM,IA,Wednesday
+-93.708885,41.579117,70,West Des Moines,POLK,41.579117,100-300 Blocks of 5th St,-93.708885,Freight House Farmer's Market - Sunday,05/03/2018 - 09/27/2018,04:00 PM - 08:00 PM,IA,Thursday
+-95.846619,41.583801,71,Missouri Valley,HARRISON,41.583801,2931 Monroe Ave,-95.846619,Freight House Farmers Market - Saturdays,05/10/2018 - 10/18/2018,03:30 PM - 06:30 PM,IA,Thursday
+-93.6204,41.585298,72,Des Moines,POLK,41.585298,Court Avenue,-93.6204,Freight House Farmers Market - Wednesday,05/05/2018 - 10/27/2018,07:00 AM - 12:00 PM,IA,Saturday
+-93.600379,41.592091,73,Des Moines,POLK,41.592091,E. 13th Street Between E.Walnut St & E. Grand Ave,-93.600379,Ft Dodge Area Fruit & Vegetable Growers - Sat,06/12/2018 - 09/25/2018,11:00 AM - 01:00 PM,IA,Tuesday
+-93.503258,41.599098,74,Pleasant Hill,POLK,41.599098,Berean Church 5299 E. University Blvd,-93.503258,Ft Dodge Area Fruit & Vegetable Growers - Weds,06/04/2018 - 09/24/2018,04:00 PM - 07:00 PM,IA,Monday
+-93.660639,41.599499,75,Des Moines,POLK,41.599499,3200 University Ave,-93.660639,Glenwood Iowa Fresh & Local Farmer's Market,06/02/2018 - 10/27/2018,09:00 AM - 01:00 PM,IA,Saturday
+-93.878067,41.608677,76,Waukee,DALLAS,41.608677,6th St,-93.878067,Greene County Farmers Market,06/06/2018 - 09/26/2018,04:00 PM - 07:00 PM,IA,Wednesday
+-93.581895,41.624715,77,Des Moines,POLK,41.624715,3200 Delware Ave,-93.581895,Grundy Center Farmers Market,05/15/2018 - 10/30/2018,03:00 PM - 06:00 PM,IA,Tuesday
+-93.677154,41.626138,78,Des Moines,POLK,41.626138,4100-4200 Urbandale Avenue,-93.677154,Guttenberg Farmers Market,06/05/2018 - 09/11/2018,04:00 PM - 07:30 PM,IA,Tuesday
+-95.33898,41.646693,79,Harlan,SHELBY,41.646693,2099 Chatburn Ave,-95.33898,Hampton Farmers Market - Tuesdays,06/16/2018 - 10/27/2018,08:30 AM - 12:00 PM,IA,Saturday
+-95.33898,41.646693,80,Harlan,SHELBY,41.646693,2099 Chatburn Ave,-95.33898,Hiawatha Farmers Market,07/11/2018 - 09/26/2018,03:30 PM - 06:00 PM,IA,Wednesday
+-91.529267,41.659655,81,Iowa City,JOHNSON,41.659655,Chauncey Swan Ramp on E Washington St,-91.529267,Hudson Farmers Market,05/02/2018 - 10/31/2018,05:00 PM - 07:30 PM,IA,Wednesday
+-91.529045,41.66008,82,Iowa City,JOHNSON,41.66008,Chauncey Swan Ramp on E Washington St,-91.529045,Huxley Farmers Market,05/05/2018 - 10/27/2018,07:30 AM - 12:00 PM,IA,Saturday
+-91.34671,41.671259,83,West Branch,CEDAR,41.671259,Southwest Corner Downey and Main St W,-91.34671,Ida Area Farmers Market,05/15/2018 - 10/09/2018,04:00 PM - 06:00 PM,IA,Tuesday
+-93.697678,41.672962,84,Johnston,POLK,41.672962,NW 62nd Ave & Merle Hay Rd,-93.697678,Independence Farmers Market,05/22/2018 - 10/09/2018,03:30 PM - 06:30 PM,IA,Tuesday
+-91.583794,41.678459,85,Coralville,JOHNSON,41.678459,1513 7th St,-91.583794,Indianola Farmers Market - Saturdays,05/07/2018 - 10/01/2018,05:00 PM - 07:00 PM,IA,Monday
+-93.960012,41.684374,86,Dallas Center,DALLAS,41.684374,1309 Walnut,-93.960012,Indianola Farmers Market - Wednesdays,06/01/2018 - 09/28/2018,04:00 PM - 07:00 PM,IA,Friday
+-94.36496,41.69185,87,Panora,GUTHRIE,41.69185,115 W Main St,-94.36496,Iowa City Farmers Market - Saturdays,05/18/2018 - 09/14/2018,04:30 PM - 06:30 PM,IA,Friday
+-93.054671,41.700321,88,Newton,JASPER,41.700321,NW Corner of Jasper County Courthouse lawn,-93.054671,Iowa City Farmers Market - Wednesdays,06/05/2018 - 09/25/2018,04:00 PM - 06:30 PM,IA,Tuesday
+-93.608551,41.729637,89,Ankeny,POLK,41.729637,715 W 1st Street,-93.608551,Iowa Falls Farmers Market - Saturday,05/19/2018 - 09/29/2018,08:00 AM - 12:00 PM,IA,Saturday
+-91.1284032,41.7720945,90,Tipton,CEDAR,41.7720945,Cedar & 5th St,-91.1284032,Iowa Food Cooperative Farmers Market,05/03/2018 - 10/25/2018,04:00 PM - 06:00 PM,IA,Thursday
+-94.1065694,41.838441,91,Perry,DALLAS,41.838441,1117 2nd Street,-94.1065694,Jefferson St. Farmers Market,05/31/2018 - 09/27/2018,04:00 PM - 07:00 PM,IA,Thursday
+-90.178635,41.872421,92,Clinton,CLINTON,41.872421,Main Ave & Roosevelt St,-90.178635,Johnston Farmers Market,05/23/2018 - 10/31/2018,04:00 PM - 06:00 PM,IA,Wednesday
+-93.60693,41.89128,93,Huxley,STORY,41.89128,100 W Railroad St,-93.60693,Kanawha Farmers Market,05/31/2018 - 08/16/2018,04:00 PM - 07:00 PM,IA,Thursday
+-92.2798722,41.8970515,94,Belle Plaine,BENTON,41.8970515,12th Street & 9th Ave,-92.2798722,Keokuk Farmers Market,06/01/2018 - 10/26/2018,04:30 PM - 06:30 PM,IA,Friday
+-91.420021,41.923973,95,Mount Vernon,LINN,41.923973,221 1st Street East,-91.420021,Keosauqua Farmers Market,05/03/2018 - 09/27/2018,04:00 PM - 06:00 PM,IA,Thursday
+-91.664955,41.97681,96,Cedar Rapids,LINN,41.97681,"2nd, 3rd, and 5th Streets & 3rd Ave. SE",-91.664955,Kimball Ridge Family Market,05/26/2018 - 09/01/2018,07:30 AM - 12:00 PM,IA,Saturday
+-92.578323,41.995632,97,Toledo,TAMA,41.995632,east side of Courthouse on Broadway St,-92.578323,Knoxville Farmers Market - Saturdays,05/04/2018 - 10/26/2018,05:00 PM - 07:00 PM,IA,Friday
+-92.911662,42.015732,98,Marshalltown,MARSHALL,42.015732,2500 S. Center Street,-92.911662,Knoxville Farmers Market - Tuesdays,05/16/2018 - 10/24/2018,04:00 PM - 06:30 PM,IA,Wednesday
+-94.3766667,42.0166667,99,Jefferson,GREENE,42.0166667,east side parking of the Courthouse Square,-94.3766667,Kossuth County Farmers Market - Saturdays,06/05/2018 - 10/02/2018,04:00 PM - 06:30 PM,IA,Tuesday
+-95.36433,42.01784,100,Denison,CRAWFORD,42.01784,509 HWY 39,-95.36433,Kossuth County Farmers Market - Wednesdays,07/05/2018 - 10/25/2018,03:00 PM - 06:00 PM,IA,Thursday
+-93.6153515,42.0250696,101,Ames,STORY,42.0250696,300 & 400 block of Main St,-93.6153515,Lake City Community Farmers Market,05/05/2018 - 10/27/2018,08:00 AM - 12:30 PM,IA,Saturday
+-91.657532,42.027245,102,Cedar Rapids,LINN,42.027245,Noelridge Park,-91.657532,Lakes Area Farmers Market - Saturdays,05/04/2018 - 10/12/2018,04:00 PM - 06:00 PM,IA,Friday
+-91.657532,42.027245,103,Cedar Rapids,LINN,42.027245,Noelridge Park,-91.657532,Lakes Area Farmers Market - Wednesdays,05/07/2018 - 10/08/2018,04:00 PM - 06:00 PM,IA,Monday
+-91.657532,42.027245,104,Cedar Rapids,LINN,42.027245,Noelridge Park,-91.657532,Lamoni Farmers Market - Wednesdays,05/02/2018 - 10/10/2018,04:00 PM - 06:00 PM,IA,Wednesday
+-93.879692,42.03603,105,Boone,BOONE,42.03603,7th and Story St.,-93.879692,LSI Global Green Farmers Market,06/07/2018 - 10/18/2018,03:00 PM - 06:00 PM,IA,Thursday
+-91.682816,42.036476,106,Hiawatha,LINN,42.036476,Guthridge Park - 10th Ave parking lot,-91.682816,Lyons Farmers Market - Wednesdays,04/29/2018 - 10/28/2018,11:00 AM - 02:00 PM,IA,Sunday
+-91.57945,42.04415,107,Marion,LINN,42.04415,2200 31st St,-91.57945,Madison County Farmers Market,05/05/2018 - 09/29/2018,08:00 AM - 11:30 AM,IA,Saturday
+-93.622475,42.049725,108,Ames,STORY,42.049725,2801 Grand Ave,-93.622475,Manchester Farmers Market,05/05/2018 - 10/27/2018,08:00 AM - 12:30 PM,IA,Saturday
+-93.622475,42.049725,109,Ames,STORY,42.049725,2801 Grand Ave,-93.622475,Manson Farmers Market,05/09/2018 - 10/31/2018,03:00 PM - 06:00 PM,IA,Wednesday
+-92.909712,42.050431,110,Marshalltown,MARSHALL,42.050431,108 N 2nd Ave,-92.909712,Maquoketa Farmers Market,05/12/2018 - 10/27/2018,08:00 AM - 11:30 AM,IA,Saturday
+-94.871971,42.065651,111,Carroll,CARROLL,42.065651,407 West 5th St,-94.871971,Marion Farmers Market - Saturdays,06/09/2018 - 09/22/2018,08:30 AM - 11:30 AM,IA,Saturday
+-94.871971,42.065651,112,Carroll,CARROLL,42.065651,407 West 5th St,-94.871971,Market On Main,06/06/2018 - 09/26/2018,03:30 PM - 05:30 PM,IA,Wednesday
+-90.651133,42.069146,113,Maquoketa,JACKSON,42.069146,1215 E Platt St,-90.651133,Marketplace at the Mall,05/15/2018 - 10/20/2018,04:00 PM - 06:30 PM,IA,Tuesday
+-91.27948,42.108307,114,Anamosa,JONES,42.108307,600 E main St,-91.27948,Monroe County Farmers Market,06/09/2018 - 10/06/2018,08:00 AM - 12:00 PM,IA,Saturday
+-91.27948,42.108307,115,Anamosa,JONES,42.108307,600 E Main St,-91.27948,Monticello Farmers Market - Saturdays,06/06/2018 - 10/03/2018,03:00 PM - 06:00 PM,IA,Wednesday
+-92.022942,42.165253,116,Vinton,BENTON,42.165253,612 2nd Ave,-92.022942,Monticello Farmers Market - Wednesdays,06/07/2018 - 09/27/2018,05:00 PM - 07:00 PM,IA,Thursday
+-91.87355,42.22398,117,Urbana,BENTON,42.22398,204 W Wood St - American Legion Pavilion,-91.87355,"Montrose Riverfront, Inc's. Farmers Market",05/26/2018 - 10/27/2018,09:00 AM - 11:00 AM,IA,Saturday
+-91.1868006,42.2372104,118,Monticello,JONES,42.2372104,Willow Shelter - E.Oak Street,-91.1868006,Mt Pleasant Farmers Market - Saturdays,05/12/2018 - 10/13/2018,08:00 AM - 11:00 AM,IA,Saturday
+-91.1868006,42.2372104,119,Monticello,JONES,42.2372104,Willow Shelter - E. Oak Street,-91.1868006,Mt. Vernon Farmers Market,05/16/2018 - 10/10/2018,03:00 PM - 05:30 PM,IA,Wednesday
+-94.733192,42.267889,120,Lake City,CALHOUN,42.267889,111 E Washington,-94.733192,Muscatine Area Farmers Market - Saturdays,06/05/2018 - 09/11/2018,04:00 PM - 06:00 PM,IA,Tuesday
+-95.46869,42.345324,121,Ida Grove,IDA,42.345324,2nd St. and Main Street,-95.46869,Muscatine Area Farmers Market - Tuesdays,06/07/2018 - 09/27/2018,04:30 PM - 06:30 PM,IA,Thursday
+-93.1034738,42.3605833,122,Eldora,HARDIN,42.3605833,Corner of 14th St & Edgington Avenue,-93.1034738,Newton's Farmers Market,05/17/2018 - 10/18/2018,04:00 PM - 06:00 PM,IA,Thursday
+-92.768532,42.361649,123,Grundy Center,GRUNDY,42.361649,G Avenue,-92.768532,North Iowa Farmers Market - Fridays,05/17/2018 - 09/13/2018,04:30 PM - 06:30 PM,IA,Thursday
+-94.63375,42.39744,124,Rockwell City,CALHOUN,42.39744,416 4th St,-94.63375,Norwalk Farmers Market,06/07/2018 - 09/27/2018,03:30 PM - 05:30 PM,IA,Thursday
+-92.45572,42.39769,125,Hudson,BLACK HAWK,42.39769,Port-A-Vet,-92.45572,Oelwein Farmers Market - Fridays,06/06/2018 - 09/26/2018,05:00 PM - 07:00 PM,IA,Wednesday
+-91.895096,42.468773,126,Independence,BUCHANAN,42.468773,Wapsipinicon Mill,-91.895096,Oelwein Farmers Market - Mondays,05/12/2018 - 10/13/2018,08:00 AM - 12:00 PM,IA,Saturday
+-92.356941,42.469429,127,Waterloo,BLACK HAWK,42.469429,155 E Ridgeway Ave,-92.356941,Oskaloosa Farmers Market - Saturdays,05/05/2018 - 10/27/2018,08:00 AM - 12:00 PM,IA,Saturday
+-92.290138,42.477272,128,Evansdale,BLACK HAWK,42.477272,3562 Lafayette,-92.290138,Oskaloosa Farmers Market - Tuesdays,05/02/2018 - 10/31/2018,03:00 PM - 06:00 PM,IA,Wednesday
+-91.11216,42.48177,129,Dyersville,DUBUQUE,42.48177,225 11th St SE,-91.11216,Ottumwa Farmers Market - Saturdays,05/24/2018 - 10/04/2018,02:00 PM - 05:30 PM,IA,Thursday
+-91.455406,42.483978,130,Manchester,DELAWARE,42.483978,241 North River Street,-91.455406,Ottumwa Farmers Market - Wednesdays,05/26/2018 - 10/06/2018,08:00 AM - 11:00 AM,IA,Saturday
+-92.3429631,42.4927641,131,Waterloo,BLACK HAWK,42.4927641,inside the SE corner of Kimball Ave & Ridgeway Rd,-92.3429631,Panora Farmers Market,05/08/2018 - 10/30/2018,03:30 PM - 06:00 PM,IA,Tuesday
+-92.343285,42.49506,132,Waterloo,BLACK HAWK,42.49506,460 Jefferson Street,-92.343285,Pella Farmers Market - Saturdays,05/05/2018 - 10/27/2018,08:00 AM - 12:00 PM,IA,Saturday
+-96.408179283,42.490819533,133,Sioux City,WOODBURY,42.499992,"100 Pearl St. Sioux City, IA 51101",-96.400307,Pella Farmers Market - Thursdays,05/02/2018 - 10/27/2018,08:00 AM - 01:00 PM,IA,Wednesday
+-94.16124,42.50322,134,Fort Dodge,WEBSTER,42.50322,1st Ave S & 25th St,-94.16124,Perry Farmers Market,06/02/2018 - 10/27/2018,09:00 AM - 01:00 PM,IA,Saturday
+-94.162617,42.504772,135,Fort Dodge,WEBSTER,42.504772,NW Corner of the Crossroads Mall parking lot,-94.162617,Pleasant Hill Farmers Market,06/06/2018 - 10/31/2018,01:00 PM - 05:30 PM,IA,Wednesday
+-90.665298,42.506081,136,Dubuque,DUBUQUE,42.506081,Iowa St from 10th to 14th Sts,-90.665298,Pleasantville Farmers Market,05/05/2018 - 10/27/2018,07:00 AM - 12:00 PM,IA,Saturday
+-92.45625,42.5177,137,Cedar Falls,BLACK HAWK,42.5177,2205 College St,-92.45625,Red Oak Farmers Market - Market Extension to MCMH,06/07/2018 - 10/25/2018,04:00 PM - 06:00 PM,IA,Thursday
+-93.263054,42.51963,138,Iowa Falls,HARDIN,42.51963,Rocksylvania & Stevens St.,-93.263054,Red Oak Farmers Market - Thursdays,05/12/2018 - 10/13/2018,08:30 AM - 11:30 AM,IA,Saturday
+-94.5341421,42.5291439,139,Manson,CALHOUN,42.5291439,"805 8th St, Country Rd N65",-94.5341421,Riceville Farmers Market,07/10/2018 - 08/28/2018,04:00 PM - 06:00 PM,IA,Tuesday
+-92.448151,42.535912,140,Cedar Falls,BLACK HAWK,42.535912,3rd & Clay St - along Overman Park,-92.448151,River City Farmers Market - Saturdays,05/05/2018 - 10/27/2018,08:30 AM - 12:00 PM,IA,Saturday
+-95.199945,42.644961,141,Storm Lake,BUENA VISTA,42.644961,Corner of E. 5th & Erie St,-95.199945,Sergeant Bluff Pioneer's Farmer's Market,06/28/2018 - 10/11/2018,04:00 PM - 06:00 PM,IA,Thursday
+-95.199852,42.64502,142,Storm Lake,BUENA VISTA,42.64502,Corner of E. 5th & Erie St,-95.199852,Shelby County Farmers Market - Saturdays,06/09/2018 - 10/13/2018,08:00 AM - 12:00 PM,IA,Saturday
+-91.913506,42.673317,143,Oelwein,FAYETTE,42.673317,Log Cabin Park- 1st Ave & 1st Street SW,-91.913506,Shelby County Farmers Market - Wednesdays,06/01/2018 - 10/26/2018,08:00 AM - 11:00 AM,IA,Friday
+-91.536526,42.683111,144,Strawberry Point,CLAYTON,42.683111,104 Park Ave,-91.536526,Sheldon Farmers Market - Fridays,05/30/2018 - 09/26/2018,04:00 PM - 06:00 PM,IA,Wednesday
+-91.912919,42.690456,145,Oelwein,FAYETTE,42.690456,Log Cabin Park - 1st Ave & 1st Street SW,-91.912919,Sheldon Farmers Market - Monday,06/04/2018 - 10/22/2018,03:00 PM - 06:00 PM,IA,Monday
+-92.468046,42.7247707,146,Waverly,BREMER,42.7247707,1st Street SW,-92.468046,Shenandoah Garden City Farmers Market - Saturdays,05/05/2018 - 10/20/2018,08:30 AM - 11:30 AM,IA,Saturday
+-92.467434,42.725054,147,Waverly,BREMER,42.725054,1st Street SW,-92.467434,Shenandoah Garden City Farmers Market - Wednesdays,06/05/2018 - 10/16/2018,03:00 PM - 06:00 PM,IA,Tuesday
+-93.732849,42.731819,148,Clarion,WRIGHT,42.731819,115 N. Main St,-93.732849,Sioux City Farmers Market - Wednesdays,06/02/2018 - 10/06/2018,09:00 AM - 11:00 AM,IA,Saturday
+-93.369922,42.736836,149,Hampton,FRANKLIN,42.736836,Corner of 1st St. NW & 1st Ave. NW,-93.369922,Southridge Mall Farmers Market,05/15/2018 - 10/19/2018,04:30 PM - 06:30 PM,IA,Tuesday
+-95.553909,42.748528,150,Cherokee,CHEROKEE,42.748528,119 S 4th St,-95.553909,Spencer Farmers Market - Saturdays,06/07/2018 - 09/27/2018,04:00 PM - 06:00 PM,IA,Thursday
+-91.09502,42.78013,151,Guttenberg,CLAYTON,42.78013,400 block of  River Park Dr,-91.09502,Spencer Farmers Market - Wednesdays,05/19/2018 - 10/31/2018,08:00 AM - 12:00 PM,IA,Saturday
+-96.557297,42.83091,152,Akron,PLYMOUTH,42.83091,Akron City Park,-96.557297,Spencer Riverfront Farmers Market,07/04/2018 - 09/26/2018,05:00 PM - 07:00 PM,IA,Wednesday
+-93.7932485,42.9396673,153,Kanawha,HANCOCK,42.9396673,Blue Water Tower Park on W 3rd St,-93.7932485,Storm Lake Farmers Market - Saturdays,06/18/2018 - 10/08/2018,03:00 PM - 05:00 PM,IA,Monday
+-94.236702,43.067867,154,Algona,KOSSUTH,43.067867,Corner of Dodge and Nebraska Sts,-94.236702,Storm Lake Farmers Market - Thursdays,05/19/2018 - 10/13/2018,09:00 AM - 11:00 AM,IA,Saturday
+-94.236702,43.067867,155,Algona,KOSSUTH,43.067867,Corner of Dodge and Nebraska Sts,-94.236702,Strawberry Point Farmers Market,07/11/2018 - 09/26/2018,03:00 PM - 05:00 PM,IA,Wednesday
+-92.677597,43.068142,156,Charles City,FLOYD,43.068142,401 N Main St,-92.677597,Stuart Farmers Market,05/05/2018 - 10/20/2018,09:00 AM - 12:00 PM,IA,Saturday
+-92.677597,43.068142,157,Charles City,FLOYD,43.068142,401 N Main St,-92.677597,The Gardeners' Market (Emmetsburg) - Saturdays,05/09/2018 - 10/17/2018,03:30 PM - 06:00 PM,IA,Wednesday
+-94.682568,43.111052,158,Emmetsburg,PALO ALTO,43.111052,10 St - Courthouse Square - northside,-94.682568,The Gardners' Market (Emmetsburg) - Thursdays,06/16/2018 - 10/20/2018,08:00 AM - 12:00 PM,IA,Saturday
+-94.682568,43.111052,159,Emmetsburg,PALO ALTO,43.111052,10th St - Courthouse Square - northside,-94.682568,Tipton Farmers Market,06/21/2018 - 10/18/2018,12:00 PM - 05:00 PM,IA,Thursday
+-95.145691,43.127167,160,Spencer,CLAY,43.127167,11th Street SW,-95.145691,Toledo Farmers Market,06/02/2018 - 10/27/2018,07:30 AM - 12:00 PM,IA,Saturday
+-95.145691,43.127167,161,Spencer,CLAY,43.127167,11th Street SW,-95.145691,Uptown Ankeny Farmers Market,06/20/2018 - 10/31/2018,04:00 PM - 06:00 PM,IA,Wednesday
+-95.145383,43.137571,162,Spencer,CLAY,43.137571,24 W Park St,-95.145383,Urbana Farmers Market,06/02/2018 - 09/29/2018,08:00 AM - 12:00 PM,IA,Saturday
+-93.37817,43.13932,163,Clear Lake,CERRO GORDO,43.13932,460 North Shore Drive,-93.37817,Valley Junction Farmers Market,05/19/2018 - 10/20/2018,09:00 AM - 12:00 PM,IA,Saturday
+-93.24729,43.149373,164,Mason City,CERRO GORDO,43.149373,"Corner of 1st St. NE & Delaware,City Parking Lot",-93.24729,Vinton Farmers Market,05/18/2018 - 10/26/2018,04:00 PM - 06:00 PM,IA,Friday
+-95.853325,43.1805,165,Sheldon,O'BRIEN,43.1805,1200 S 2nd Ave,-95.853325,Wapello County Farmers Market - Mondays,06/08/2018 - 09/28/2018,11:00 AM - 01:00 PM,IA,Friday
+-95.853325,43.1805,166,Sheldon,O'BRIEN,43.1805,1200 S 2nd Ave,-95.853325,Wapello County Farmers Market - Thursdays,06/04/2018 - 09/24/2018,04:30 PM - 06:30 PM,IA,Monday
+-93.638598,43.263252,167,Forest City,WINNEBAGO,43.263252,North 100 block of Clark St,-93.638598,Washington Farmers Market,06/07/2018 - 09/27/2018,03:00 PM - 05:30 PM,IA,Thursday
+-91.47491,43.27676,168,Waukon,ALLAMAKEE,43.27676,711 Allamakee St,-91.47491,Waterloo Urban Farmers Market - Saturdays,06/04/2018 - 09/24/2018,03:30 PM - 06:00 PM,IA,Monday
+-92.5562,43.36369,169,Riceville,HOWARD,43.36369,203 Main Street,-92.5562,Waukee Farmers Market,05/26/2018 - 09/08/2018,09:00 AM - 11:30 AM,IA,Saturday
+-92.118431,43.372505,170,Cresco,HOWARD,43.372505,SW 1st Ave & 2nd St W,-92.118431,Waukon Farmers Market,05/11/2018 - 10/19/2018,02:00 PM - 05:30 PM,IA,Friday
+-92.118431,43.372505,171,Cresco,HOWARD,43.372505,SW 1st Ave & 2nd St W,-92.118431,Waverly Farmers Market - Saturdays,05/22/2018 - 10/16/2018,02:00 PM - 05:30 PM,IA,Tuesday
+-94.828651,43.402061,172,Estherville,EMMET,43.402061,613 Central Ave.,-94.828651,Waverly Farmers Market - Tuesdays,07/07/2018 - 10/13/2018,09:00 AM - 12:00 PM,IA,Saturday
+-94.828651,43.402061,173,Estherville,EMMET,43.402061,613 Central Ave.,-94.828651,Welcome Center Farmers Market (Mo. Valley),06/07/2018 - 09/27/2018,04:30 PM - 06:30 PM,IA,Thursday
+-95.11409,43.425556,174,Spirit Lake,DICKINSON,43.425556,1600 15th St,-95.11409,West Branch Farmers Market,06/02/2018 - 10/13/2018,07:30 AM - 12:00 PM,IA,Saturday
+-95.11409,43.425556,175,Spirit Lake,DICKINSON,43.425556,1600 15th St,-95.11409,Williamsburg Farmers Market,06/06/2018 - 10/10/2018,07:30 AM - 12:00 PM,IA,Wednesday
